@@ -27,5 +27,3 @@ O Brasil tem uma [embaixada](https://ec-londres.itamaraty.gov.br/) e consulados 
 A embaixada fica em Londres e o consulados ficam em [Londres](https://www.gov.br/mre/pt-br/consulado-londres) e [Edimburgo](https://www.gov.br/mre/pt-br/consulado-edimburgo)
 
 **Note que você somente poderá fazer solicitações de documentos ao consulado que atende a sua região de residência.**
-
-![Uploading image.png…]()
