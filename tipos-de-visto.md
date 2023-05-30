@@ -4,7 +4,7 @@
 - [Skilled Worker visa](https://www.gov.uk/skilled-worker-visa)
 - [Health and Care Worker visa](https://www.gov.uk/health-care-worker-visa)
 
-## Tipos de visto que voce pode se aplicar sem oferta de emprego
+## Tipos de visto que você pode aplicar sem oferta de emprego
 - British National (Overseas) visa
 - [Graduate visa](https://www.gov.uk/graduate-visa)
 - [Youth Mobility Scheme visa](https://www.gov.uk/youth-mobility)
