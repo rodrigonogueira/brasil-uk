@@ -14,7 +14,7 @@
 - [High Potential Individual (HPI) visa](https://www.gov.uk/high-potential-individual-visa)
 
 ## Vistos para trabalhar para empresas em outro pais
-- Senior or Specialist Worker visa (Global Business Mobility)
+- [Senior or Specialist Worker visa (Global Business Mobility)](https://www.gov.uk/senior-specialist-worker-visa)
 - Overseas Domestic Worker visa
 - Graduate Trainee visa (Global Business Mobility)
 - Secondment Worker visa (Global Business Mobility)
