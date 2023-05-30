@@ -28,3 +28,4 @@ A embaixada fica em Londres e o consulados ficam em [Londres](https://www.gov.br
 
 **Note que você somente poderá fazer solicitações de documentos ao consulado que atende a sua região de residência.**
 
+![Alt text](assets/mapa_consulados_uk.jpg?raw=true "Mapa")
